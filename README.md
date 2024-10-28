@@ -28,3 +28,25 @@ Their revenue management team had decided to heir a 3rd party service provider t
 -	Daily sellable room night (DSRN)
 -	Daily utilized room night (DURN)
 -	Week on Week Changes for Revenue, Occupancy%, Realization%, ADR, RevPar,DSRN <a href = "https://github.com/Saheed25/Altiq-Grands-Hospitality-Business-Analysis-/blob/main/hospitality.pbix"> Dashboard </a>
+
+**Process**
+-	Load the data (tables) into Power Bi for transformation 
+-	Verify data for any missing values and anomalies, and sort out the same.
+-	Made sure data is consistent and clean with respect to data type, data format and values used.
+-	Used Data model to create links with the different tables
+-	Generated new column in the date table called week no
+-	Created various anchor, Time measures and Variable measures in respects to the key metrics
+-	Created a dynamic dashboard in align to the stake holders request solving their KPI’s  <a href = "https://github.com/Saheed25/Altiq-Grands-Hospitality-Business-Analysis-/blob/main/hospitality.pbix"> Dashboard </a>
+
+**Project Insight**
+- The hospitality business for the 3months has recorded a revenue of 1.69bn
+- The luxury categories make the bigger portion (61.62%) of the revenue
+- The fluctuation of RevPar and %Occupancy follows the same trend with ADR being constant through the 3month
+- High realization% correlates with low cancellation%
+- Most Hotels with high realization% have a higher rating
+- Hotels with low occupancy% have a low rating
+- Weekday and weekend ADR are constant
+
+**Final Conclusion:**
+- ADR being constant is an indication of fixed pricing and other pricing methods could be employed to maximize revenue on occupancy
+- Rating review should be analyzed to determine what the customers are saying about the hotels with lower rating.
